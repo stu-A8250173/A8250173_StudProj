@@ -8,13 +8,15 @@ private:
 
 	int number;
 
-public:
 
+public:
+	Card();
 	Card(int);
 	void setnumber(int);
 	int getnumber();
 	void print();
-
+	int n;//¼Æ¦r
+	int f;//ªá¦â
 
 };
 

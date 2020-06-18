@@ -7,8 +7,6 @@ int number = 52;
 
 Extract::Extract()
 {
-
-
 	for (int i = 0; i < 52; i++)
 	{
 		deck.push_back(i+1);
