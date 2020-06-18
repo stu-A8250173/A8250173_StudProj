@@ -4,7 +4,7 @@
 
 - PlayerName.cpp
 - Wallet.cpp
-    -Bet.cpp
+    - Bet.cpp
     
 - Extract.cpp
 - Deck.cpp
